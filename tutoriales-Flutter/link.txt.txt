@@ -1,0 +1,47 @@
+https://flutter.institute/creating-your-first-flutter-app/
+https://www.dartlang.org/resources/dart-tips
+
+https://docs.flutter.io
+
+web con dart
+https://www.youtube.com/watch?v=0Jn6EtIiC1Q
+
+
+material flutter
+https://sergiandreplace.com/
+
+https://flutter.io/widgets/
+
+https://flutter.io/tutorials/
+
+
+https://github.com/flutter/flutter/tree/master/packages/flutter/test/widgets
+https://github.com/flutter/flutter
+
+https://www.youtube.com/watch?v=YdzSdWUkA5s&feature=youtu.be
+
+
+https://pub.dartlang.org/
+
+
+REVISAR
+https://medium.freecodecamp.org/building-a-simple-news-aggregator-app-with-flutter-39afdda16f48
+
+https://marcinszalek.pl/flutter/
+
+no sql
+http://www.dynamicelements.no/blog/uncategorized/nosql%E2%80%8A-%E2%80%8Aa-quick-guide/
+
+video con subtitulis
+https://www.youtube.com/watch?v=w2TcYP8qiRI
+
+material desing web
+https://getmdl.io/
+https://webappdesign.es/que-es-material-design/
+
+
+ejemplos de dart
+http://jpryan.me/dartbyexample/
+
+raised buttom
+https://medium.com/indian-coder/flutter-bottom-navigation-bar-890d9588be4f
