@@ -1,3 +1,8 @@
 3-1-2019  3h Definicion con Abraham
           4h Viaje
 4-1-2019  6h Requisitos y objetos
+5-1-2019  2h Diseño lógico
+          4h Diselo lógico
+6-1-2019  5h Construccion menú generico
+7-1-2019  2h Construccion menú generico
+          2h Calculando espaciado
