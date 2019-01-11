@@ -6,3 +6,5 @@
 6-1-2019  5h Construccion menú generico
 7-1-2019  2h Construccion menú generico
           2h Calculando espaciado
+9-1-2019  3h Autentificacion
+          5h Autentificacion
