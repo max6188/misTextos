@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a099115-a8a5-40bf-8907-32dcc17f1cda" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../Diccionario-Flutter/0.2 medium.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Diccionario-Flutter/0.2 medium.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Diccionario-Flutter/Mapa y geolocalizacion rapido.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Diccionario-Flutter/Mapa y geolocalizacion rapido.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Diccionario-Flutter/imagenes firestore.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Diccionario-Flutter/imagenes firestore.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Diccionario-Flutter/imagenes.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Diccionario-Flutter/imagenes.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IINSTALADORES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../IINSTALADORES2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Proyecto/Apuntes.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Proyecto/Presupuesto2019.ods" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Proyecto/Presupuesto2019.ods" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Proyecto/abraham/Minuta90103.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Proyecto/abraham/Minuta90103.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Proyecto/abraham/diseño.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Proyecto/abraham/diseño.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1 papas_complementos.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../0.1 papas_complementos.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PostgreSql.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../PostgreSql.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fte/mantener_agenda/frm_agenda.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/fte/mantener_agenda/frm_agenda.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Auth.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../Auth.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../macPro.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../peliculas/marisopa.odt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../peliculas/marisopa.odt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../peliculas/marisopa.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="25976547">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="dart" value="25" />
+          <entry key="yaml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Dart" value="25" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="16" />
+              <folding>
+                <element signature="e#3#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/fte/mantener_agenda/db_frm_agenda.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="47" column="1" selection-start-line="5" selection-end-line="47" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/fte/mantener_inyeccion/frm_inyeccion.dart">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/fte/mantener_agenda/frm_agenda.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="186" column="44" selection-start-line="186" selection-start-column="44" selection-end-line="186" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/fte/maxlib/mgrafica_mensajeriaV1.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/fte/agenda_app.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1965">
+              <caret line="153" column="25" selection-start-line="153" selection-start-column="15" selection-end-line="153" selection-end-column="32" />
+              <folding>
+                <element signature="e#153#173#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/fte/desp_listado/frm_listado.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="63" column="54" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/fte/mantener_agenda/IcMediicos.dart">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/fte/mantener_agenda/soporte_frm_agenda.dart">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/fte/mantener_agenda/datos_agenda.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/fte/agenda_app.dart" />
+        <option value="$PROJECT_DIR$/lib/fte/mantener_agenda/frm_agenda.dart" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="43" />
+    <option name="width" value="1260" />
+    <option name="height" value="667" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="05 agenda medica" type="b2602c69:ProjectViewProjectNode" />
+              <item name="05 agenda medica" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="05 agenda medica" type="b2602c69:ProjectViewProjectNode" />
+              <item name="05 agenda medica" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="05 agenda medica" type="b2602c69:ProjectViewProjectNode" />
+              <item name="05 agenda medica" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="libraries" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a099115-a8a5-40bf-8907-32dcc17f1cda" name="Default Changelist" comment="" />
+      <created>1549238728972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549238728972</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="43" width="1260" height="667" extended-state="0" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.33990148" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Debug" order="2" />
+      <window_info anchor="bottom" id="Dart Analysis" order="3" sideWeight="0.49835795" visible="true" weight="0.32869565" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50164205" side_tool="true" visible="true" weight="0.32869565" />
+      <window_info anchor="bottom" id="Flutter Performance" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Flutter Inspector" order="2" />
+      <window_info anchor="right" id="Flutter Outline" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#3#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/fte/mantener_agenda/db_frm_agenda.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="1" selection-start-line="5" selection-end-line="47" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/fte/mantener_inyeccion/frm_inyeccion.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/fte/maxlib/mgrafica_mensajeriaV1.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/fte/agenda_app.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1965">
+          <caret line="153" column="25" selection-start-line="153" selection-start-column="15" selection-end-line="153" selection-end-column="32" />
+          <folding>
+            <element signature="e#153#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/fte/desp_listado/frm_listado.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="54" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/fte/mantener_agenda/IcMediicos.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/fte/mantener_agenda/soporte_frm_agenda.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/fte/mantener_agenda/datos_agenda.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/fte/mantener_agenda/frm_agenda.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="186" column="44" selection-start-line="186" selection-start-column="44" selection-end-line="186" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
