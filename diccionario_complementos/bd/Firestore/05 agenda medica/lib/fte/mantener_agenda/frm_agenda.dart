@@ -165,44 +165,6 @@ class _FrmAgenda extends State<FrmAgenda> {
       );
     }
 
-  Row radio() {
-      return new Row(
-        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-        children: <Widget>[
-          new Radio(
-              value: 0,
-              groupValue: dFrm.vencida,
-              onChanged: (int data) {
-                setState(() {
-                  dFrm.vencida = data;
-                });
-              }
-          ),
-          new Text('Pendiente'),
-          new Radio(
-              value: 1,
-              groupValue: dFrm.vencida,
-              onChanged: (int data) {
-                setState(() {
-                  dFrm.vencida = data;
-                });
-              }
-          ),
-          new Text('Listo'),
-          new Radio(
-              value: 2,
-              groupValue: dFrm.vencida,
-              onChanged: (int data) {
-                setState(() {
-                  dFrm.vencida = data;
-                });
-              }
-          ),
-          new Text('Vencida'),
-        ],
-      );
-    }
-
 
 
     @override
