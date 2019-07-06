@@ -1,0 +1,8 @@
+a) Calcular cuota con la fórmula PAGO de excel.
+b) Encabezado Tabla, horizontal: Cuota, capital amortizable, interés y saldo
+c) Encabezado Tabla, vertical: Periodos del 0 al 5 (según periodo propuesto)
+d) Se debe incorporar valor del crédito para el saldo inicial del periodo 0.(el resto de valores horizontales, no aplica, quedarán en blanco en este periodo 0)
+e) Se debe incorporar el valor cuota a todos los periodos.
+f) Calcular el interés (ya en periodo 1 en adelante) con respecto al saldo anterior.
+g) Calcular el capital amortizable (Cuota - valor económico del interés)
+h) Calcular nuevo saldo: Saldo anterior - Valor Cuota
